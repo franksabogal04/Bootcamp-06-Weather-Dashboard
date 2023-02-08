@@ -1,0 +1,31 @@
+:root {
+    --navy: #25135f;
+    --skyBlue: #465bb8;
+    --gray: #aeaeae;
+}
+
+.text-bg-darkblue {
+    color: white;
+    background-color: #323d4f;
+}
+
+.btn.text-bg-navy{
+    background-color: var(--navy);
+    color: white;
+}
+.btn.text-bg-skyblue{
+    background-color: var(--skyBlue);
+    color: white;
+}
+.btn.text-bg-gray{
+    background-color: var(--gray);
+    color: black;
+}
+
+.bg-skyBlue{
+    background-color: var(--skyBlue);
+}
+
+.banner-bg{
+    background-image: linear-gradient(to right, var(--skyBlue) , var(--navy));
+}
