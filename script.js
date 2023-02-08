@@ -1,4 +1,4 @@
-var API_KEY = 'da450bb6a8c06c621eb5c09e6f8a919d';
+var API_KEY = '64395eaee6679698604c16b40b47f304';
 
 // A Persistent list of the cities the user has searched for
 var searchedCities = [];
